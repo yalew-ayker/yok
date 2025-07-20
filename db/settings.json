@@ -1,0 +1,18 @@
+{
+    "site_title": "YOK Catering Service",
+    "theme_color": "#00360e",
+    "seo": {
+        "meta_title": "",
+        "meta_desc": "",
+        "meta_keywords": ""
+    },
+    "primary_color": "#222",
+    "secondary_color": "#444",
+    "accent_color": "#00c896",
+    "bg_color": "#181818",
+    "text_color": "#fff",
+    "theme_preset": "Elegant Dark",
+    "font_family": "Vollkorn",
+    "font_family_en": "Vollkorn",
+    "font_family_am": "Visual Geez MR"
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "username": "admin",
+        "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+        "role": "Super Admin",
+        "created_at": "2024-01-01 00:00:00"
+    },
+    {
+        "username": "yideset",
+        "password": "$2y$10$ya6xFpdJvFiwLlYXEr3F7erD6RnOd2lDcbetGjVT5Bclzb1d\/hSVq",
+        "role": "Admin",
+        "created_at": "2025-07-13 07:24:02"
+    },
+    {
+        "username": "admin3",
+        "password": "$2y$10$dp2j9JBGbnpAfKyTdSDxV.Sg4gBSgefdA6FfhdUP0F01PcVQmK\/Ve",
+        "role": "Editor",
+        "created_at": "2025-07-14 08:10:07"
+    }
+]

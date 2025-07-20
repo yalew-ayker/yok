@@ -1,0 +1,15 @@
+{
+    "activity": [
+        {
+            "time": "2025-07-04 07:18:10",
+            "msg": "Admin logged in"
+        }
+    ],
+    "error": [],
+    "system": [
+        {
+            "time": "2025-07-04 07:18:10",
+            "msg": "System running smoothly"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "pkg_687c756abdedb",
+        "title": "Premium",
+        "desc": "The Premium quality.",
+        "img": "frontend\/img\/packages\/package_687c756abd73b0.58381444.jpg"
+    },
+    {
+        "id": "pkg_687c7590558e4",
+        "title": "Golden",
+        "desc": "The Golden quality!",
+        "img": "frontend\/img\/packages\/package_687c7590552e04.73097750.webp"
+    },
+    {
+        "id": "pkg_687c75a509370",
+        "title": "Silver",
+        "desc": "The silver quality!",
+        "img": "frontend\/img\/packages\/package_687c75a508e4f4.63343681.webp"
+    },
+    {
+        "id": "pkg_687c75c13629b",
+        "title": "Copper",
+        "desc": "The copper quality.",
+        "img": "frontend\/img\/packages\/package_687c75c135a964.81021624.webp"
+    }
+]

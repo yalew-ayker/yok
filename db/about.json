@@ -1,0 +1,38 @@
+{
+    "en": {
+        "title": "About Us",
+        "desc": "Learn more about YOK Catering Service and our story.",
+        "who_we_are": "YOK Catering Service is a passionate team of culinary professionals dedicated to making your events memorable. With years of experience in the catering industry, we pride ourselves on delivering delicious food, creative menus, and exceptional service for every occasion.",
+        "who_we_are_img": "home.jpg",
+        "our_services": [
+            "Wedding Catering – Elegant menus and seamless service for your special day",
+            "Corporate Events – Professional catering for meetings, conferences, and company celebrations",
+            "Birthday Parties – Fun, festive, and customized menus for all ages",
+            "Private Gatherings – Intimate dinners, anniversaries, and family celebrations",
+            "Buffet & Plated Service – Flexible options to suit your event style"
+        ],
+        "our_services_img": "gallery1.jpg",
+        "why_choose": [
+            "Fresh, high-quality ingredients and diverse menu options",
+            "Experienced chefs and friendly, professional staff",
+            "Attention to detail and personalized service",
+            "Flexible packages to fit your budget and needs",
+            "Commitment to making your event stress-free and unforgettable"
+        ],
+        "why_choose_img": "logo.jpg",
+        "our_promise": "From the first consultation to the final clean-up, YOK Catering Service is with you every step of the way. We listen to your vision, tailor our services to your preferences, and ensure every guest leaves satisfied. Let us bring flavor, style, and joy to your next event!",
+        "our_promise_img": "gallery2.jpg"
+    },
+    "am": {
+        "title": "\\u12e8\\u12a0\\u1295\\u130d\\u120b\\u12ca",
+        "desc": "\\u12a0\\u12f2\\u130d\\u12d5\\u127d \\u12a0\\u121b\\u122d\\u12eb\\u12ca \\u12a0\\u12f2\\u130d\\u12d5\\u127d.",
+        "who_we_are": "",
+        "who_we_are_img": "home.jpg",
+        "our_services": [],
+        "our_services_img": "gallery1.jpg",
+        "why_choose": [],
+        "why_choose_img": "logo.jpg",
+        "our_promise": "",
+        "our_promise_img": "gallery2.jpg"
+    }
+}

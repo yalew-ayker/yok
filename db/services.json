@@ -1,0 +1,100 @@
+[
+    {
+        "id": "svc_687c66b044409",
+        "title": "Mediation",
+        "desc": "For any kind of Mediations.",
+        "img": "frontend\/img\/services\/service_687c66b03eb395.49816159.jpg",
+        "created_at": "2025-07-20 03:46:56"
+    },
+    {
+        "id": "svc_687c674800c44",
+        "title": "Wedding",
+        "desc": "For any kind of Wedding ceremony.",
+        "img": "frontend\/img\/services\/service_687c6748006505.10653855.jpg",
+        "created_at": "2025-07-20 03:49:28"
+    },
+    {
+        "id": "svc_687c697dc14e0",
+        "title": "Kilikil",
+        "desc": "As you requested.",
+        "img": "frontend\/img\/services\/service_687c697dc0c4b2.12730521.png",
+        "created_at": "2025-07-20 03:58:53"
+    },
+    {
+        "id": "svc_687c699eb4fe8",
+        "title": "Melis",
+        "desc": "For your lovely moment.",
+        "img": "frontend\/img\/services\/service_687c699eb4ab89.98401846.png",
+        "created_at": "2025-07-20 03:59:26"
+    },
+    {
+        "id": "svc_687c6cb64c33a",
+        "title": "Wedding Anniversary",
+        "desc": "You can celebrate every year.",
+        "img": "frontend\/img\/services\/service_687c6cb64bd132.97194488.webp",
+        "created_at": "2025-07-20 04:12:38"
+    },
+    {
+        "id": "svc_687c6cf68130d",
+        "title": "Baby Shower",
+        "desc": "Celebrate your moment.",
+        "img": "frontend\/img\/services\/service_687c6cf680d7d7.14748765.jpg",
+        "created_at": "2025-07-20 04:13:42"
+    },
+    {
+        "id": "svc_687c6e3c6eeb4",
+        "title": "Christianity",
+        "desc": "Make the moment unforgettable.",
+        "img": "frontend\/img\/services\/service_687c6e3c6e7f12.47746529.jpg",
+        "created_at": "2025-07-20 04:19:08"
+    },
+    {
+        "id": "svc_687c6f79122fc",
+        "title": "Birthday",
+        "desc": "Make your own day special.",
+        "img": "frontend\/img\/services\/service_687c6f79119a50.59015663.webp",
+        "created_at": "2025-07-20 04:24:25"
+    },
+    {
+        "id": "svc_687c70a165b50",
+        "title": "Corporate",
+        "desc": "For your organization ceremony.",
+        "img": "frontend\/img\/services\/service_687c70a1652703.52682055.jpg",
+        "created_at": "2025-07-20 04:29:21"
+    },
+    {
+        "id": "svc_687c71236e8c2",
+        "title": "Graduation",
+        "desc": "Congratulations!",
+        "img": "frontend\/img\/services\/service_687c71236e1957.78482925.jpg",
+        "created_at": "2025-07-20 04:31:31"
+    },
+    {
+        "id": "svc_687c7200d958b",
+        "title": "Association",
+        "desc": "For any type of Associations.",
+        "img": "frontend\/img\/services\/service_687c7200d8ea03.70388105.webp",
+        "created_at": "2025-07-20 04:35:12"
+    },
+    {
+        "id": "svc_687c727511365",
+        "title": "Invitation",
+        "desc": "Make your guests pride.",
+        "img": "frontend\/img\/services\/service_687c727510cd51.48159317.jpg",
+        "created_at": "2025-07-20 04:37:09"
+    },
+    {
+        "id": "svc_687c732f85845",
+        "title": "Road Trip",
+        "desc": "Travel with our tasty meal.",
+        "img": "frontend\/img\/services\/service_687c732f851872.51824274.jpg",
+        "created_at": "2025-07-20 04:40:15"
+    },
+    {
+        "id": "svc_687c73f58dec7",
+        "title": "Grief",
+        "desc": "Sorry for your loss!",
+        "img": "frontend\/img\/services\/service_687c73f58d8530.25586555.jpg",
+        "created_at": "2025-07-20 04:43:33"
+    }
+]

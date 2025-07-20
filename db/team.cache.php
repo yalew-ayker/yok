@@ -1,0 +1,82 @@
+<?php return array (
+  0 => 
+  array (
+    'name' => 'Yonas Kebede',
+    'role' => 'Founder & Executive Chef',
+    'img' => '../frontend/img/team/team_68771ad9120623.54613554.jpg',
+    'bio' => 'Yonas brings over 15 years of culinary experience and a passion for creative, memorable events.',
+    'linkedin' => '',
+    'twitter' => '',
+    'instagram' => '',
+  ),
+  1 => 
+  array (
+    'name' => 'Mekdes Alemu',
+    'role' => 'Event Coordinator',
+    'img' => '../frontend/img/team/team_68771ae1e36895.51736818.jpg',
+    'bio' => 'Mekdes ensures every event runs smoothly and every client feels special.',
+    'linkedin' => '',
+    'twitter' => '',
+    'instagram' => '',
+  ),
+  2 => 
+  array (
+    'name' => 'Samuel Getachew',
+    'role' => 'Sous Chef',
+    'img' => '../frontend/img/team/team_68771af1c8dcd9.29292275.jpg',
+    'bio' => 'Samuel specializes in Ethiopian and international cuisine, bringing flavor to every dish.',
+    'linkedin' => '',
+    'twitter' => '',
+    'instagram' => '',
+  ),
+  3 => 
+  array (
+    'name' => 'Lily Tesfaye',
+    'role' => 'Customer Relations',
+    'img' => '../frontend/img/team/team_68771b02e87e27.09628582.jpg',
+    'bio' => 'Lily is the friendly face who makes sure your experience is seamless from start to finish.',
+    'linkedin' => '',
+    'twitter' => '',
+    'instagram' => '',
+  ),
+  4 => 
+  array (
+    'name' => 'qq',
+    'role' => 'qq',
+    'bio' => 'qq',
+    'img' => '../frontend/img/team/team_68771accda2816.61841911.jpg',
+    'linkedin' => '',
+    'twitter' => '',
+    'instagram' => '',
+  ),
+  5 => 
+  array (
+    'name' => 'ww',
+    'role' => 'ww',
+    'bio' => 'ww',
+    'img' => '../frontend/img/team/team_687718e03c4237.09788458.jpg',
+    'linkedin' => '',
+    'twitter' => '',
+    'instagram' => '',
+  ),
+  6 => 
+  array (
+    'name' => 'ww',
+    'role' => 'ww',
+    'bio' => 'ww',
+    'img' => '../frontend/img/team/team_68771a1af0ab92.93220190.jpg',
+    'linkedin' => '',
+    'twitter' => '',
+    'instagram' => '',
+  ),
+  7 => 
+  array (
+    'name' => 'aa',
+    'role' => 'aa',
+    'bio' => 'aa',
+    'img' => '../frontend/img/team/team_68771a29236b48.68717882.jpg',
+    'linkedin' => '',
+    'twitter' => '',
+    'instagram' => '',
+  ),
+);
